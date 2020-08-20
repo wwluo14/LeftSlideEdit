@@ -5,4 +5,5 @@
 1. 包含一个主内容显示区域，比如列表中的item。
 2. 包含一个编辑区域，即item后面的操作菜单(菜单里面可以是使用者的任何自定义能力)。
 
-![image]https://github.com/wwluo14/LeftSlideEdit/blob/master/leftslidedel/gif/1597911098655.gif
+## 效果图
+![image](https://github.com/wwluo14/LeftSlideEdit/blob/master/leftslidedel/gif/1597911098655.gif)
