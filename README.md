@@ -6,4 +6,4 @@
 2. 包含一个编辑区域，即item后面的操作菜单(菜单里面可以是使用者的任何自定义能力)。
 
 ## 效果图
-![image](https://github.com/wwluo14/LeftSlideEdit/blob/master/leftslidedel/gif/1597911098655.gif)
+![image](https://github.com/wwluo14/LeftSlideEdit/blob/master/leftslidedel/gif/2.gif?raw=true)
