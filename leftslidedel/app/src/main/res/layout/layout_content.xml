@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.lw.leftslidelib.CustomLinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="#aaAA00"
+    android:orientation="vertical">
+
+    <com.lw.leftslidelib.CustomTextView
+        android:id="@+id/content"
+        android:textSize="20sp"
+        android:textColor="#ffffff"
+        android:text="我是内容"
+        android:gravity="center"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent" />
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="1px"
+        android:background="#ffffff"/>
+</com.lw.leftslidelib.CustomLinearLayout>

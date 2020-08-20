@@ -1,0 +1,2 @@
+include ':app', ':leftslidelib'
+rootProject.name='Left_slide_view'
